@@ -1,0 +1,17 @@
+{
+  "textures": [
+    {
+      "name": "ColorMapTexture",
+      "images": [
+        {
+          "bundle": "/images/container2.png",
+          "asset": ""
+        },
+        {
+          "bundle": "/images/container2.png",
+          "asset": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "textures": [
+    {
+      "name": "ColorMapSpecular",
+      "images": [
+        {
+          "bundle": "/images/container2_specular.png",
+          "asset": ""
+        }
+      ]
+    }
+  ]
+}

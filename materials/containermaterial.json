@@ -1,0 +1,16 @@
+{
+  "materials": [
+    {
+      "name": "Colormap",
+      "type": "material",
+      "diffuseTexture": {
+        "bundle": "/textures/containerdiffuse.json",
+        "asset": ""
+      },
+      "specularTexture": {
+        "bundle": "/textures/containerspecular.json",
+        "asset": ""
+      }
+    }
+  ]
+}
